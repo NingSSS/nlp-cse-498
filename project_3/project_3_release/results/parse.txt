@@ -1,0 +1,1 @@
+(ROOT  (S (NP (Det every) (Noun (Adj perplexed) (Noun floor))) (VP (Verb wanted) (NP (Det every) (Noun sandwich)))) .)
